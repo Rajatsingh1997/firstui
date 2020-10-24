@@ -1,0 +1,13 @@
+.maindiv {
+    width: 100%;
+}
+
+.background-img {
+    background-image:  url(../Assets/16614.png);
+    padding-top: 163px;
+    padding-bottom: 56px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
